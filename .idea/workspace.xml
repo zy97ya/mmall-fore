@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f4be4706-bd9b-4c06-9d63-303df98c3df9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mmall/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/mmall/webpack.config.js" afterDir="false" />
     </list>
@@ -215,7 +217,7 @@
       <path value="$PROJECT_DIR$/mmall/package.json" />
     </packageJsonPaths>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="950" />
     <option name="width" value="980" />
     <option name="height" value="1040" />
@@ -316,12 +318,12 @@
       <workItem from="1556344424052" duration="951000" />
       <workItem from="1556348211464" duration="1424000" />
       <workItem from="1556349944477" duration="1190000" />
-      <workItem from="1556357123861" duration="1868000" />
+      <workItem from="1556357123861" duration="2471000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19904000" />
+    <option name="totallyTimeSpent" value="20507000" />
   </component>
   <component name="TodoView" selected-index="2">
     <todo-panel id="selected-file">
@@ -334,9 +336,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14729194" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14729194" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -345,10 +346,10 @@
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.32673267" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32577905" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.31728044" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="8" visible="true" weight="0.3286119" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.31728044" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
