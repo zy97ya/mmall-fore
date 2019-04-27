@@ -106,7 +106,7 @@ var config = {
         inline: true,
         proxy : {
             '**/*.do' : {
-                target: 'http://test.happymmall.com',
+                target: 'http://localhost:8080/',
                 changeOrigin : true
             }
         }
